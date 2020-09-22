@@ -1,0 +1,6 @@
+Introduction = 66, 66, 460, 336, Z
+frmModLog = 44, 44, 432, 314, C, 88, 88, 476, 358, C
+modStart = 110, 110, 498, 380, C
+frmBanner = 0, 0, 252, 270, , 110, 110, 362, 380, C
+Handler = 0, 0, 0, 0, C
+ExtendBanner = 0, 0, 394, 270, 

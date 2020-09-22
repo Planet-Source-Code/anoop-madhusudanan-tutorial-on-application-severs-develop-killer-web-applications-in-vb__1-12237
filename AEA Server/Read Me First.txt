@@ -1,0 +1,36 @@
+==================================================================
+	AEA Server:
+	CREATING 'APPLICATION-SERVERS
+
+	Written by Anoop. M, anoopj13@yahoo.com
+
+	Anoop M, Govindanikethan, Nedumkunnam, Kottayam,
+	Kerala, India.
+==================================================================
+
+This article will teach you the ins and outs of 
+creating your own Application Servers.
+
+==================================================================
+CONTENTS
+==================================================================
+ 1) WHO ARE YOU.
+ 2) AFTER READING THIS.
+ 3) PREFACE
+ 4) INTRODUCTION TO APPLICATION SERVERS
+ 5) WHAT WE ARE GOING TO DO
+ 6) HOW OUR PROJECT WORKS
+ 7) STEPS
+     7.I  ) Beginning The Project
+     7.II ) Creating AEA Framework
+     7.III) Extending AEA Framework
+     7.IV  ) Implementing The Frontend
+
+ 8) CONFIGURING THE WHOLE PROJECT
+ 9) WHAT TO DO WITH THIS..
+
+==================================================================
+To read the article,
+Just open the VB project APPServer in the AEA SERVER
+directory. Take the 'INTRODUCTION' module in the project first.
+==================================================================
